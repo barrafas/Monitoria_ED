@@ -58,7 +58,7 @@ Agora temos um executável chamado `hello`, para rodado basta rodar o seguinte e
 
 ## Hello World (VSCode)
 
-Tendo o VSCode instalado podemos baixar a extensão `Run Code`
+Tendo o VSCode instalado podemos baixar a extensão `Code Runner`
 
 ![image](https://user-images.githubusercontent.com/61877847/219743160-d65d70d3-b28f-40e0-a44d-5d86022535e2.png)
 
