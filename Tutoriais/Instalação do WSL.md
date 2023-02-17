@@ -40,6 +40,12 @@ Fortemente baseado no [tutorial oficial do VSCode](https://code.visualstudio.com
 
 O VSCode possúi uma [extensão oficial](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) que permite a integração da sua instalação do VSCode do Windows com seu WSL. Para isso, basta instalá-lo normalmente em seu Windows e baixar a extensão mencionada anteriormente.
 
-Com o VSCode e a extensão instaladas, basta acessar seu terminal do WSL e digitar o comando `code .` no diretório que você deseja acessar.
+Com o VSCode e a extensão instaladas, basta acessar seu terminal do WSL e digitar o comando `code .` no diretório que você deseja acessar:
+
+![Indicações que o VSCode está funcionando no WSL](https://user-images.githubusercontent.com/64672906/219757409-2e002e94-a151-46b4-8dc8-e1e749a83488.png)
+
+Como pode ver, o VSCode te indica quando ele está funcionando no WSL, tanto no canto inferior esquerdo quanto no path atual. Note que, quando estamos trabalhando pelo WSL, é indicado que todos os arquivos relacionados ao projeto estejam dentro do sistema de arquivos do próprio WSL, então evite tentar apontar para arquivos presentes em sua instalação normal do Windows.
 
 Note que vocẽ terá que habilitar suas outras extensões instaladas para que elas também funcionem no WSL. Para checar se uma extensão está funcionando no WSL, basta abri-la na aba de Extensões:
+
+![Indicação que a extensão está presente na instalação do VSCode do WSL](https://user-images.githubusercontent.com/64672906/219757778-d1b9c8b9-a463-4d96-a45e-5f6653ed32b9.png)
