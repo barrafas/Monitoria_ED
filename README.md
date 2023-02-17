@@ -55,3 +55,17 @@ Agora temos um executável chamado `hello`, para rodado basta rodar o seguinte e
 ```
 ./hello
 ```
+
+## Hello World (VSCode)
+
+Tendo o VSCode instalado podemos baixar a extensão `Run Code`
+
+![image](https://user-images.githubusercontent.com/61877847/219743160-d65d70d3-b28f-40e0-a44d-5d86022535e2.png)
+
+No código do `Hello, World` acima clique com o botão direito do mouse e selecione a opção `Run Code`
+
+![image](https://user-images.githubusercontent.com/61877847/219743738-046080ef-464c-4752-a9c0-4dafd14f9b77.png)
+
+E pronto seu código é compilado e executado
+
+![image](https://user-images.githubusercontent.com/61877847/219744465-2770d7f6-c680-4a00-9135-31c50380f0cb.png)
