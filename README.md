@@ -9,7 +9,7 @@ Repositório para manter diversos recursos de monitoria para a disciplina de Est
 - Presencial: Terça à tarde (16h até 18h) na sala (esperando reserva de sala)
 - Online: Sextas às 14:30 no discord da EMAp
 
-## Hello World em Cpp
+## Hello World em Cpp (Linux)
 
 Para instalar o compilador em Linux é recomendado usar o seguinte comando:
 
