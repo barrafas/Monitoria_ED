@@ -35,6 +35,8 @@ Caso nunca tenha interagido com Linux antes, segue uma lista de comandos úteis:
 
 OBS: Caso esteja usando Windows 11 ou Windows 10 Build 19044+, é possível usar aplicativos com interface pelo WSL. Isso permite, por exemplo, que você instale um browser ou um explorador de arquivos para facilitar seu uso do WSL. Um tutorial mais detalhado sobre isso está disponível nesse [artigo da Microsoft](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps).
 
+Para utilizar o compilador de C++ e começar a escrever código na linguagem, agora é só seguir o tutorial descrito no [ReadMe](/../README), que descreve o passo a passo para sistemas Linux.
+
 ## Integrando VSCode com o WSL
 Fortemente baseado no [tutorial oficial do VSCode](https://code.visualstudio.com/docs/remote/wsl).
 
