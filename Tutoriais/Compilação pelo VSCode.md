@@ -1,6 +1,6 @@
 # Hello World (VSCode)
 
-Antes de prosseguir, certifique-se que você possui algum compilador instalado (como mostrado em [Compilação no Linux](https://github.com/barrafas/Monitoria_ED/blob/main/Tutoriais/Compila%C3%A7%C3%A3o%20no%20Linux.md)
+Antes de prosseguir, certifique-se que você possui algum compilador instalado (como mostrado em [Compilação no Linux](https://github.com/barrafas/Monitoria_ED/blob/main/Tutoriais/Compila%C3%A7%C3%A3o%20no%20Linux.md)).
 
 Tendo o VSCode instalado podemos baixar a extensão `Code Runner`
 
