@@ -1,6 +1,4 @@
-
 #include <iostream>
-#include <vector>
 
 // Questão 1:
 struct Node {
@@ -136,7 +134,6 @@ bool CheckRepetition(Node *head) {
 }
 
 // Questão EXTRA:
-
 int CheckCycleSize(Node *head) {
     Node *dummy = (Node*)malloc(sizeof(Node));  // Cria um nó vazio para ser a head de uma lista auxiliar
     Node *current = head;
